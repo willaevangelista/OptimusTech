@@ -6,12 +6,13 @@
 
 .vagas__imagem {
     padding: 5em 0 2em 5em;
-    opacity: 0.5;      
+    opacity: 0.5;
+    position: relative;      
 }
 
 .vagas__imagem:hover {
     opacity: 1;
-    transition: 5000ms;
+    transition: 5000ms 2s ease-out;
 }
 
 .botao__secundario {
