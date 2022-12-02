@@ -5,9 +5,12 @@
 }
 
 .vagas__imagem {
-    transition: 5000ms;
     padding: 5em 0 2em 5em;
     opacity: 0.5;      
+}
+
+.vagas__imagem:before {
+    transition: 5000ms;
 }
 
 .vagas__imagem:hover {
