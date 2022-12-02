@@ -10,10 +10,10 @@
 
 <hr>
 
-<p align="center"> <img src="https://drive.google.com/file/d/1z8kXNxQHGRrYm9xlWts8EQdKvh9rPldV/view?usp=share_link" alt="Logo da AluraBooks"> </p>
+<p align="center"> <img src="https://github.com/willaevangelista/OptimusTech/blob/446fc1d7dcebf2add88105e3fec1b51d6d24e6f4/OptimusTech.png" alt="Logo da AluraBooks"> </p>
 
 ## Descrição do Projeto
-* Projeto feito durante o curso de "HTML e CSS: responsividade com mobile-first" da Alura. Nele, o projeto de desenvolvimento foi iniciado pela versão mobile e, posteriormente, se desenvolveu resposividades para as versões tablet e notebook/desktop. 
+* Projeto feito durante o desafio de HTML e CSS 7 Days Of Coda da Alura. Durante esse perído, foi necessário mobilizar conhecimentos de diversos curso prévios da Alura, visto que foi necessário empregá-los de modo recorrente para o desenvolvimento do site da OptimusTech, sendo os principais deles o display flex e estilização e estruturação de listas. 
 
 ## Tecnologias utilizadas
 * HTML
