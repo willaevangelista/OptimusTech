@@ -9,10 +9,6 @@
     opacity: 0.5;      
 }
 
-.vagas__imagem:before {
-    transition: 5000ms;
-}
-
 .vagas__imagem:hover {
     opacity: 1;
     transition: 5000ms;
