@@ -21,5 +21,5 @@
 
 ## Compartilhamento do Projeto Desenvolvido
 
-* Para uma melhor visualização do trabalho feito até o momento, basta acessar o site clicando <a href="https://willaevangelista.github.io/OptimusTech/">aqui.</a>
+* Para uma melhor visualização do trabalho feito até o momento, basta acessar o site clicando <a href="https://optimus-tech-six.vercel.app/">aqui.</a>
 
