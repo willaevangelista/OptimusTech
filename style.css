@@ -1,0 +1,25 @@
+@import url(./styles/header.css);
+@import url(./styles/banner.css);
+@import url(./styles/vagas.css);
+@import url(./styles/relato.css);
+@import url(./styles/rodape.css);
+
+:root {
+    --branco-background: #FFFFFF;
+    --pesquisa-borda: #D0D5DD;
+    --preto-subtítulo: #101828;
+    --cinza-subtítulo: #667085;
+    --cinza-claro: #98A2B3;
+    --vermelho-escuro: #8E2424;
+    --vermelho-claro: #f4bcbc ;
+    --rodape-background: #F9FAFB;
+    --botao-secundario: rgba(142, 36, 36, 0.05);
+    --fonte-principal: "Inter";
+    --relato-background: rgba(196, 25, 25, 0.03);
+}
+
+body {
+    background-color: var(--branco-background);
+    font-family: var(--fonte-principal);
+}
+
